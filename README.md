@@ -45,4 +45,4 @@
 
 ### Core Focus Areas
 - Computer Vision: Object Detection (YOLO, Detectron), Face Recognition, CNNs, Dataset Annotation (CVAT, Roboflow).
-- Applied AI: LLMs, Retrieval-Augmented Generation (RAG), Agentic AI Workflows, Automation Pipelines with n8n.
+- Applied AI: LLMs, Retrieval-Augmented Generation (RAG), Agentic AI Workflows, Automation Pipelines with n8n, Edge AI.
