@@ -13,7 +13,8 @@
 
 #### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,cs,java,flutter,rust,arduino" height="40" valign="middle" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,cs,java,dart,flutter,rust,arduino" height="40" valign="middle" />
+  <img src="https://cdn.simpleicons.org/micropython/2B2728" height="34" valign="middle" title="MicroPython" style="margin-left: 6px;" />
 </p>
 
 #### Web Development
@@ -24,27 +25,20 @@
 #### Database Management
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" height="40" valign="middle" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=flat&logo=microsoftsqlserver&logoColor=white" height="40" valign="middle" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" height="40" valign="middle" />
 </p>
 
 #### AI and Computer Vision
 <p>
-  <img src="https://skillicons.dev/icons?i=opencv" height="40" valign="middle" />
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black" height="40" valign="middle" />
-  <img src="https://img.shields.io/badge/Roboflow-6706CE?style=flat&logo=roboflow&logoColor=white" height="40" valign="middle" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" height="40" valign="middle" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" height="40" valign="middle" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" height="40" valign="middle" />
-  <img src="https://img.shields.io/badge/MLOps-000000?style=flat&logo=curseforge&logoColor=white" height="40" valign="middle" />
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch" height="40" valign="middle" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="34" valign="middle" title="Jupyter" style="margin-left: 8px;" />
+  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="34" valign="middle" title="Kaggle" style="margin-left: 8px;" />
+  <img src="https://cdn.simpleicons.org/roboflow/6706CE" height="34" valign="middle" title="Roboflow" style="margin-left: 8px;" />
 </p>
 
 #### Tools and Automation
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,figma" height="40" valign="middle" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" height="40" valign="middle" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" height="40" valign="middle" />
-  <img src="https://img.shields.io/badge/CVAT-1F2328?style=flat&logoColor=white" height="40" valign="middle" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="34" valign="middle" title="n8n" style="margin-left: 8px;" />
 </p>
 
 ---
@@ -52,4 +46,3 @@
 ### Core Focus Areas
 - Computer Vision: Object Detection (YOLO, Detectron), Face Recognition, CNNs, Dataset Annotation (CVAT, Roboflow).
 - Applied AI: LLMs, Retrieval-Augmented Generation (RAG), Agentic AI Workflows, Automation Pipelines with n8n.
-
