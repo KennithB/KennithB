@@ -1,4 +1,4 @@
-# Hi there, I'm Kennith B. Baluyot 👋
+# I'm Kennith B. Baluyot
 ### Software Developer & Automation Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kennith-baluyot)
@@ -7,7 +7,7 @@
 
 ---
 
-### 💻 Technologies & Stack
+### Technologies & Stack
 
 #### Languages & Core
 <a href="https://skillicons.dev">
@@ -33,13 +33,13 @@
 
 ---
 
-### 🤖 AI & Computer Vision Focus
+### AI & Computer Vision Focus
 - **Vision:** OpenCV, YOLO, Detectron, CNN, CVAT, Roboflow
 - **Modern AI:** LLMs, Retrieval-Augmented Generation (RAG), Agentic AI Workflows, MLOps
 
 ---
 
-### 📬 Connect with Me
+### Connect with Me
 - **LinkedIn:** [kennith-baluyot](https://linkedin.com/in/kennith-baluyot)
 - **Email:** [baluyotkennith@gmail.com](mailto:baluyotkennith@gmail.com)
 - **Mobile:** (+63) 915-719-6541
