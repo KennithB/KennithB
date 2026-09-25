@@ -43,6 +43,5 @@
 
 ---
 
-### Core Focus Areas
-- Computer Vision: Object detection (YOLO, Detectron), Face Recognition, CNNs, Dataset Annotation (CVAT, Roboflow), Automated Optical Inspection (AOI)
-- Applied AI: LLMs, Retrieval-Augmented Generation (RAG), Agentic AI Workflows, Automation Orchestration with n8n, Edge AI
+Core Focus Areas
+<table> <tr> <td width="50%" valign="top"> <h4> Computer Vision</h4> <p>Building systems that see and inspect - from defect detection to real-time recognition.</p> <ul> <li>Object Detection: YOLO, Detectron</li> <li>Face Recognition</li> <li>Convolutional Neural Networks (CNNs)</li> <li>Dataset Annotation: CVAT, Roboflow</li> <li>Automated Optical Inspection (AOI)</li> </ul> </td> <td width="50%" valign="top"> <h4> Applied AI</h4> <p>Connecting models to real workflows: reasoning, retrieval, and automation end-to-end.</p> <ul> <li>Large Language Models (LLMs)</li> <li>Retrieval-Augmented Generation (RAG)</li> <li>Agentic AI Workflows</li> <li>Automation Orchestration: n8n</li> <li>Edge AI</li> </ul> </td> </tr> </table>
