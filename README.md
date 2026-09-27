@@ -1,5 +1,5 @@
 #              Kenshin Blirtz
-### Software Developer / Automation Engineer
+### Software / Automation Engineer
 
 <p>
   <a href="https://linkedin.com/in/kennith-baluyot"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="24" /></a>
