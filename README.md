@@ -38,7 +38,7 @@
 #### Tools and Automation
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,figma" height="40" valign="middle" />
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="34" valign="middle" title="n8n" style="margin-left: 8px;" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="34" valign="middle" title="n8n" style="margin-left: 7.5px;" />
 </p>
 
 ---
