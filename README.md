@@ -24,7 +24,8 @@
 
 #### Database Management
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,oracle" height="40" valign="middle" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,oracledb" height="40" valign="middle" />
+  <img src="https://cdn.simpleicons.org/oracledb/6706CE" height="34" valign="middle" title="Roboflow" style="margin-left: 8px;" />
 </p>
 
 #### AI and Computer Vision
