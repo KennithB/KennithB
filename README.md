@@ -25,14 +25,14 @@
 #### Database Management
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" height="40" valign="middle" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="34" valign="middle" title="Oracle" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mongodb,mysql,oracle" height="40" valign="middle" />
 </p>
 
 #### AI and Computer Vision
 <p>
   <img src="https://skillicons.dev/icons?i=opencv,pytorch" height="40" valign="middle" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="34" valign="middle" title="Jupyter" style="margin-left: 8px;" />
-  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="34" valign="middle" title="Kaggle" style="margin-left: 8px;" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv,pytorch,kaggle" height="40" valign="middle" />
   <img src="https://cdn.simpleicons.org/roboflow/6706CE" height="34" valign="middle" title="Roboflow" style="margin-left: 8px;" />
 </p>
 
