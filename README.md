@@ -24,7 +24,7 @@
 
 #### Database Management
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" height="40" valign="middle" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,oracle" height="40" valign="middle" />
 </p>
 
 #### AI and Computer Vision
