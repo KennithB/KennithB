@@ -14,7 +14,6 @@
 #### Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,python,cs,java,dart,flutter,rust,arduino" height="40" valign="middle" />
-  <img src="https://cdn.simpleicons.org/micropython/2B2728" height="34" valign="middle" title="MicroPython" style="margin-left: 6px;" />
 </p>
 
 #### Web Development
